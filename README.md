@@ -1,2 +1,2 @@
 # polars-cheatsheet
-To help myself learn polars
+To help myself learn [polars](https://www.pola.rs)
